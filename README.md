@@ -12,7 +12,7 @@
 <h2>🛠️ Tools and Skills</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,tailwind,vite,postman,mysql,arduino,raspberrypi,ros" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,tailwind,vite,postman,mysql,arduino,raspberrypi,linux,ros" />
   </a>
 </p>
 <!--
