@@ -2,7 +2,7 @@
 
 # Hey, I'm Raiyan 👋
 
-**Full-stack, AI-powered developer building practical and scalable solutions to real-world problems. Focused on modern AI-powered web applications, Data Science, AI/ML research, LLMs, and Agentic AI.**
+**Full-stack, AI-powered developer building practical and scalable solutions to real-world problems. Focused on modern AI-powered web applications, Data Science, AI/ML research and Agentic AI.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiyan-muhtasim-427a06358)
 
