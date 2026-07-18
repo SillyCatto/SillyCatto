@@ -4,6 +4,7 @@
 
 **Full-stack, AI-powered developer building practical and scalable solutions to real-world problems. Focused on modern AI-powered web applications, Data Science, AI/ML research and Agentic AI.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-raiyanmuhtasim.vercel.app-12100F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raiyanmuhtasim.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiyan-muhtasim-427a06358)
 
 </div>
