@@ -2,7 +2,8 @@
 
 # Hey, I'm Raiyan 👋
 
-**Full-stack, AI-powered developer building practical and scalable solutions to real-world problems. Focused on modern AI-powered web applications, Data Science, AI/ML research and Agentic AI.**
+**Full-stack software engineering student specializing in scalable web applications and applied machine learning. Passionate
+about integrating AI into practical tools and improving user experiences.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-raiyan-12100F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raiyanm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiyan-muhtasim-427a06358)
